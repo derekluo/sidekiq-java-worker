@@ -1,3 +1,6 @@
+# sidekiq-java-worker
+Java worker for sidekiq
+
 一个使用java实现的sidekiq的worker
 开发阶段，可以参考，请勿使用
 
@@ -37,3 +40,5 @@ public class SNWorker extends AbstractWorker {
 
 
 ```
+
+
